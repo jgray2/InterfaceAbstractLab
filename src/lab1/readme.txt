@@ -8,7 +8,7 @@ Objectives for Lab #1:
    * Practice deciding which super class methods should be abstract, if any,
      and which super class methods should be fully implemented, if any.
      (TIP: implement methods that should not change and declare them final;
-      if a method has the potential for being overridden in the sub-clsss,
+      if a method has the potential for being overridden in the sub-class,
       declare that method abstract)
    * Continue practicing what you have learned about Encapsulation
 
